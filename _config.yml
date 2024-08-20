@@ -222,7 +222,6 @@ defaults:
       comments: true
       share: true
       related: true
-      date: false
   # _pages
   - scope:
       path: ""
@@ -239,7 +238,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      date: false
   # _publications
   - scope:
       path: ""
@@ -249,7 +247,6 @@ defaults:
       author_profile: true
       share: true
       comments: true
-      date: false
   # _portfolio
   - scope:
       path: ""
@@ -267,7 +264,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-      date: false
 
 
 # Sass/SCSS
